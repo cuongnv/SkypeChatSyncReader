@@ -1,0 +1,15 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+skype_chatsync_reader/__init__.py
+skype_chatsync_reader/gui.py
+skype_chatsync_reader/scanner.py
+skype_chatsync_reader.egg-info/PKG-INFO
+skype_chatsync_reader.egg-info/SOURCES.txt
+skype_chatsync_reader.egg-info/dependency_links.txt
+skype_chatsync_reader.egg-info/entry_points.txt
+skype_chatsync_reader.egg-info/top_level.txt
+skype_chatsync_reader.egg-info/zip-safe

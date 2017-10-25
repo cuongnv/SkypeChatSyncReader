@@ -1,0 +1,3 @@
+[console_scripts]
+skype-chatsync-viewer = skype_chatsync_reader.gui:main
+
